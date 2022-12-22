@@ -1,0 +1,100 @@
+[
+    {
+      "model": "mainapp.courseteacher",
+      "pk": 1,
+      "fields": {
+        "first_name": "Альфред",
+        "last_name": "Нуцубидзе",
+        "created_at": "2021-07-11T12:53:26.832Z",
+        "update_at": "2021-07-11T12:53:26.833Z",
+        "course": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "model": "mainapp.courseteacher",
+      "pk": 2,
+      "fields": {
+        "first_name":  "Роман",
+        "last_name": "Доржинов",
+        "created_at": "2021-07-11T12:53:26.832Z",
+        "update_at": "2021-07-11T12:53:26.833Z",
+        "course": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "model": "mainapp.courseteacher",
+      "pk": 3,
+      "fields": {
+        "first_name":  "Ярослав",
+        "last_name": "Конягин",
+        "created_at": "2021-07-11T12:53:26.832Z",
+        "update_at": "2021-07-11T12:53:26.833Z",
+        "course": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "model": "mainapp.courseteacher",
+      "pk": 4,
+      "fields": {
+        "first_name": "Автандил",
+        "last_name": "Наварский",
+        "created_at": "2021-07-11T12:53:26.832Z",
+        "update_at": "2021-07-11T12:53:26.833Z",
+        "course": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "model": "mainapp.courseteacher",
+      "pk": 5,
+      "fields": {
+        "first_name": "Роза",
+        "last_name": "Уланова",
+        "created_at": "2021-07-11T12:53:26.832Z",
+        "update_at": "2021-07-11T12:53:26.833Z",
+        "course": [
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "model": "mainapp.courseteacher",
+      "pk": 6,
+      "fields": {
+        "first_name": "Бронислава",
+        "last_name": "Алиева",
+        "created_at": "2021-07-11T12:53:26.832Z",
+        "update_at": "2021-07-11T12:53:26.833Z",
+        "course": [
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "model": "mainapp.courseteacher",
+      "pk": 7,
+      "fields": {
+        "first_name": "Диана",
+        "last_name": "Попова",
+        "created_at": "2021-07-11T12:53:26.832Z",
+        "update_at": "2021-07-11T12:53:26.833Z",
+        "course": [
+          1,
+          8
+        ]
+      }
+    }
+  ]
