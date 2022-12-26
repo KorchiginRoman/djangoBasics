@@ -28,7 +28,7 @@ class NewsManager(models.Manager):
 
 
 class News(BaseModel):
-    #objects = NewsManager()
+    objects = NewsManager()
 
     title = models.CharField(max_length=256, verbose_name='Заголовок')
     preamble = models.CharField(max_length=512, verbose_name='Вступление')
@@ -44,6 +44,7 @@ class News(BaseModel):
 
 
 class Course(BaseModel):
+    objects = NewsManager()
     title = models.CharField(max_length=256, verbose_name='Заголовок')
     description = models.TextField(verbose_name='Описание')
 
